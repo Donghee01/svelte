@@ -1,0 +1,11 @@
+jsconfig.json
+package.json
+package-lock.json
+Dockerfile
+default.conf
+index.html
+vite.config.js
+svelte.config.js
+README.md
+public/
+src/
